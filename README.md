@@ -17,7 +17,7 @@ Este repositorio contiene una versión autocontenida en HTML de una tarjeta inte
 - Diseñado para uso local (file://) y para abrir en navegadores móviles. Algunos navegadores o clientes in-app (por ejemplo el visor interno de WhatsApp).
 
 ## Personalización
-- Puedes editar el texto dentro del HTML (por ejemplo el mensaje de la carta). Si quieres cambiar colores o animaciones, edita las reglas CSS al principio del HTML o vuelve a mantener los archivos `styles.css` y los scripts por separado.
+- Puedes editar el texto dentro del HTML (por ejemplo el mensaje de la carta) — [Ver ejemplo (línea 64)] ( https://github.com/R0ronoaZ0ro/Dia-de-la-Mujer/blob/824a8686d2bceac10532a9d8a7500bd814cc556d/index.html#L64 ). Si quieres cambiar colores o animaciones, edita las reglas CSS al principio del HTML o vuelve a mantener los archivos `styles.css` y los scripts por separado.
 
 ## Licencia
 Usalo libremente para fines personales. Si lo compartes públicamente en GitHub, puedes añadir una licencia (por ejemplo MIT) en un archivo `LICENSE` si quieres permitir uso/ediciones por terceros.
